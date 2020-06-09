@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "abhijoybasak.nestjs-files",
+    "ashinzekene.nestjs",
+    "andys8.jest-snippets",
+    "dbaeumer.vscode-eslint",
+    "firsttris.vscode-jest-runner"
+  ]
+}
